@@ -84,5 +84,4 @@ Specializing in **branding, UI/UX prototypes, promotional design**, and **pre-pr
 - 🇷🇺 Russian — Native  
 - 🇧🇾 Belarusian — Native  
 - 🇬🇧 English — B1  
-- 🇵🇱 Polish — A2  
-
+- 🇵🇱 Polish — A2
